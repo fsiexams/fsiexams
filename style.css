@@ -2,24 +2,24 @@ body {
     background: rgb(161, 208, 253)no-repeat top right;
 }
 h1 {
-    color: rgb(9, 48, 163);
+    color: #0930A3;
     margin-left: 40%;
     font-size: 60px;
 }
 h2 {
-    color: rgb(9, 48, 163);
+    color: #0930A3;
     font-size: 40px;
 }
 h4{
-    color: rgb(9, 48, 163);
+    color: #0930A3;
     font-size: 30px;
 }
 a:link {
-    color: rgb(9, 48, 163);
+    color: #0930A3;
   }
   a:visited {
-    color: rgb(9, 48, 163);
+    color: #0930A3;
   }
   a:hover {
-    color: rgb(9, 48, 163);
+    color: #0930A3;
   }
